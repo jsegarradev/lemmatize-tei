@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sample Letter</title>
+                <author>John Doe</author>
+            </titleStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>España</country>
+                        <settlement>Castellón</settlement>
+                        <repository>Archivo Municipal de Castellón</repository>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName type="remitente">John Doe</persName>
+                <persName type="destinatario">Jane Smith</persName>
+                <date when="2024-03-22T21:25:57.735657"/>
+                <placeName>Sample City</placeName>
+            </creation>
+            <langUsage>
+                <language id="es">Spanish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Sample</term>
+                    <term>Keywords</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="Carta">
+                <p id="p-1">
+                    <tok form="Remito" lemma="Remito" id="w-0">Remito</tok>
+                    <tok form="a" lemma="a" id="w-1">a</tok>
+                    <tok form="Us" lemma="Us" id="w-2">Us</tok>
+                    <tok form="." lemma="." id="w-3">.</tok>
+                    <tok form="el" lemma="el" id="w-4">el</tok>
+                    <tok form="Despacho" lemma="Despacho" id="w-5">Despacho</tok>
+                    <tok form="adjunto" lemma="adjunto" id="w-6">adjunto</tok>
+                    <tok form="," lemma="," id="w-7">,</tok>
+                    <tok form="en" lemma="en" id="w-8">en</tok>
+                    <tok form="que" lemma="que" id="w-9">que</tok>
+                    <tok form="và" lemma="và" id="w-10">và</tok>
+                    <tok form="¿" lemma="¿" id="w-11">¿</tok>
+                    <tok form="muerta" lemma="muerto" id="w-12">muerta</tok>
+                    <tok form="?" lemma="?" id="w-13">?</tok>
+                    <tok form="la" lemma="el" id="w-14">la</tok>
+                    <tok form="Real" lemma="Real" id="w-15">Real</tok>
+                    <tok form="Provisión" lemma="Provisión" id="w-16">Provisión</tok>
+                    <tok form="de" lemma="de" id="w-17">de</tok>
+                    <tok form="ocho" lemma="ocho" id="w-18">ocho</tok>
+                    <tok form="de" lemma="de" id="w-19">de</tok>
+                    <tok form="Octubre" lemma="octubre" id="w-20">Octubre</tok>
+                    <tok form="de1738" lemma="de1738" id="w-21">de1738</tok>
+                    <tok form="." lemma="." id="w-22">.</tok>
+                    <tok form="y" lemma="y" id="w-23">y</tok>
+                    <tok form="adjunta" lemma="adjuntar" id="w-24">adjunta</tok>
+                    <tok form="la" lemma="el" id="w-25">la</tok>
+                    <tok form="Cedula" lemma="Cedula" id="w-26">Cedula</tok>
+                    <tok form="de" lemma="de" id="w-27">de</tok>
+                    <tok form="S.M." lemma="S.M." id="w-28">S.M.</tok>
+                    <tok form="de" lemma="de" id="w-29">de</tok>
+                    <tok form="30" lemma="30" id="w-30">30</tok>
+                    <tok form="deOctubre" lemma="deoctubre" id="w-31">deOctubre</tok>
+                    <tok form="de" lemma="de" id="w-32">de</tok>
+                    <tok form="este" lemma="este" id="w-33">este</tok>
+                    <tok form="año" lemma="año" id="w-34">año</tok>
+                    <tok form="," lemma="," id="w-35">,</tok>
+                    <tok form="que" lemma="que" id="w-36">que</tok>
+                    <tok form="en" lemma="en" id="w-37">en</tok>
+                    <tok form="el" lemma="el" id="w-38">el</tok>
+                    <tok form="," lemma="," id="w-39">,</tok>
+                    <tok form="se" lemma="él" id="w-40">se</tok>
+                    <tok form="¿" lemma="¿" id="w-41">¿</tok>
+                    <tok form="cuta" lemma="cuta" id="w-42">cuta</tok>
+                    <tok form="?" lemma="?" id="w-43">?</tok>
+                    <tok form="sobre" lemma="sobre" id="w-44">sobre</tok>
+                    <tok form="recoger" lemma="recoger" id="w-45">recoger</tok>
+                    <tok form=" " lemma=" " id="w-46"></tok>
+                    <tok form="los" lemma="el" id="w-47">los</tok>
+                    <tok form="Gitanos" lemma="Gitanos" id="w-48">Gitanos</tok>
+                    <tok form="a" lemma="a" id="w-49">a</tok>
+                    <tok form="las" lemma="el" id="w-50">las</tok>
+                    <tok form="quatro" lemma="quatro" id="w-51">quatro</tok>
+                    <tok form="vecindades" lemma="vecindad" id="w-52">vecindades</tok>
+                    <tok form="que" lemma="que" id="w-53">que</tok>
+                    <tok form="les" lemma="él" id="w-54">les</tok>
+                    <tok form="estan" lemma="estir" id="w-55">estan</tok>
+                    <tok form="asignadas" lemma="asignado" id="w-56">asignadas</tok>
+                    <tok form="en" lemma="en" id="w-57">en</tok>
+                    <tok form="este" lemma="este" id="w-58">este</tok>
+                    <tok form="Rno" lemma="Rno" id="w-59">Rno</tok>
+                    <tok form="," lemma="," id="w-60">,</tok>
+                    <tok form="y" lemma="y" id="w-61">y</tok>
+                    <tok form="lo" lemma="él" id="w-62">lo</tok>
+                    <tok form=" " lemma=" " id="w-63"></tok>
+                    <tok form="que" lemma="que" id="w-64">que</tok>
+                    <tok form="deven" lemma="devir" id="w-65">deven</tok>
+                    <tok form="observar" lemma="observar" id="w-66">observar</tok>
+                    <tok form="las" lemma="el" id="w-67">las</tok>
+                    <tok form="Justicias" lemma="Justicias" id="w-68">Justicias</tok>
+                    <tok form="en" lemma="en" id="w-69">en</tok>
+                    <tok form="este" lemma="este" id="w-70">este</tok>
+                    <tok form="asumpto" lemma="asumpto" id="w-71">asumpto</tok>
+                    <tok form="," lemma="," id="w-72">,</tok>
+                    <tok form="para" lemma="para" id="w-73">para</tok>
+                    <tok form="que" lemma="que" id="w-74">que</tok>
+                    <tok form="Us" lemma="Us" id="w-75">Us</tok>
+                    <tok form="." lemma="." id="w-76">.</tok>
+                    <tok form="disponga" lemma="disponer" id="w-77">disponga</tok>
+                    <tok form="se" lemma="él" id="w-78">se</tok>
+                    <tok form="haga" lemma="hacer" id="w-79">haga</tok>
+                    <tok form="saver" lemma="saver" id="w-80">saver</tok>
+                    <tok form="por" lemma="por" id="w-81">por</tok>
+                    <tok form="vereda" lemma="vereda" id="w-82">vereda</tok>
+                    <tok form="á" lemma="á" id="w-83">á</tok>
+                    <tok form="las" lemma="el" id="w-84">las</tok>
+                    <tok form="delos" lemma="delo" id="w-85">delos</tok>
+                    <tok form="Pueblo" lemma="Pueblo" id="w-86">Pueblo</tok>
+                    <tok form="de" lemma="de" id="w-87">de</tok>
+                    <tok form="ese" lemma="ese" id="w-88">ese</tok>
+                    <tok form="Partido" lemma="Partido" id="w-89">Partido</tok>
+                    <tok form="," lemma="," id="w-90">,</tok>
+                    <tok form="para" lemma="para" id="w-91">para</tok>
+                    <tok form="su" lemma="su" id="w-92">su</tok>
+                    <tok form="puntual" lemma="puntual" id="w-93">puntual</tok>
+                    <tok form="cumplimiento" lemma="cumplimiento" id="w-94">cumplimiento</tok>
+                    <tok form="," lemma="," id="w-95">,</tok>
+                    <tok form="y" lemma="y" id="w-96">y</tok>
+                    <tok form="estarà" lemma="estarà" id="w-97">estarà</tok>
+                    <tok form="U.S." lemma="U.S." id="w-98">U.S.</tok>
+                    <tok form="mui" lemma="mui" id="w-99">mui</tok>
+                    <tok form="ála" lemma="ála" id="w-100">ála</tok>
+                    <tok form="vista" lemma="visto" id="w-101">vista</tok>
+                    <tok form="de" lemma="de" id="w-102">de</tok>
+                    <tok form="que" lemma="que" id="w-103">que</tok>
+                    <tok form="en" lemma="en" id="w-104">en</tok>
+                    <tok form="nada" lemma="nada" id="w-105">nada</tok>
+                    <tok form="delo" lemma="delo" id="w-106">delo</tok>
+                    <tok form="prevenido" lemma="prevenido" id="w-107">prevenido</tok>
+                </p>
+                <p id="p-2">
+                    <tok form="en" lemma="en" id="w-0">en</tok>
+                    <tok form="mí" lemma="yo" id="w-1">mí</tok>
+                    <tok form="Despacho" lemma="Despacho" id="w-2">Despacho</tok>
+                    <tok form="se" lemma="él" id="w-3">se</tok>
+                    <tok form="falte" lemma="faltar" id="w-4">falte</tok>
+                    <tok form="avisando" lemma="avisar" id="w-5">avisando</tok>
+                    <tok form="me" lemma="yo" id="w-6">me</tok>
+                    <tok form="de" lemma="de" id="w-7">de</tok>
+                    <tok form="su" lemma="su" id="w-8">su</tok>
+                    <tok form="recivo" lemma="recivo" id="w-9">recivo</tok>
+                    <tok form="," lemma="," id="w-10">,</tok>
+                    <tok form="y" lemma="y" id="w-11">y</tok>
+                    <tok form="de" lemma="de" id="w-12">de</tok>
+                    <tok form="quanto" lemma="quanto" id="w-13">quanto</tok>
+                    <tok form="ocurra" lemma="ocurrir" id="w-14">ocurra</tok>
+                    <tok form=" " lemma=" " id="w-15"></tok>
+                    <tok form="en" lemma="en" id="w-16">en</tok>
+                    <tok form="tan" lemma="tanto" id="w-17">tan</tok>
+                    <tok form="importante" lemma="importante" id="w-18">importante</tok>
+                    <tok form="asumpto" lemma="asumpto" id="w-19">asumpto</tok>
+                    <tok form="." lemma="." id="w-20">.</tok>
+                    <tok form="Dios" lemma="dios" id="w-21">Dios</tok>
+                    <tok form="gue" lemma="gue" id="w-22">gue</tok>
+                    <tok form="a" lemma="a" id="w-23">a</tok>
+                    <tok form="V.S" lemma="V.S" id="w-24">V.S</tok>
+                    <tok form="m." lemma="m." id="w-25">m.</tok>
+                    <tok form="al" lemma="al" id="w-26">al</tok>
+                    <tok form="." lemma="." id="w-27">.</tok>
+                    <tok form="Rl" lemma="Rl" id="w-28">Rl</tok>
+                    <tok form="de" lemma="de" id="w-29">de</tok>
+                    <tok form=" " lemma=" " id="w-30"></tok>
+                    <tok form="Valenc.a" lemma="valenc.a" id="w-31">Valenc.a</tok>
+                    <tok form="28" lemma="28" id="w-32">28</tok>
+                    <tok form="demre" lemma="demre" id="w-33">demre</tok>
+                    <tok form="de1745" lemma="de1745" id="w-34">de1745</tok>
+                    <tok form="Del" lemma="Del" id="w-35">Del</tok>
+                    <tok form="duque" lemma="duque" id="w-36">duque</tok>
+                    <tok form="de" lemma="de" id="w-37">de</tok>
+                    <tok form="Caylus" lemma="Caylus" id="w-38">Caylus</tok>
+                    <tok form="Sr." lemma="Sr." id="w-39">Sr.</tok>
+                    <tok form="Dn" lemma="Dn" id="w-40">Dn</tok>
+                    <tok form="." lemma="." id="w-41">.</tok>
+                    <tok form="Joseph" lemma="Joseph" id="w-42">Joseph</tok>
+                    <tok form="Bermudo" lemma="Bermudo" id="w-43">Bermudo</tok>
+                    <tok form="." lemma="." id="w-44">.</tok>
+                </p>
+                <p id="p-3"/>
+            </div>
+        </body>
+    </text>
+</TEI>
